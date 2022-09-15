@@ -2,3 +2,8 @@
 	path = xmarts/l10n_do_v15
 	url = git@github.com:xmarts/l10n_do_v15.git
 	branch = 15.0
+
+[submodule "xmarts/cancel-purchase-orders"]
+	path = xmarts/cancel-purchase-orders
+	url = git@github.com:xmarts/cancel-purchase-orders.git
+	branch = main
