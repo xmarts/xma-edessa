@@ -7,3 +7,8 @@
 	path = xmarts/cancel-purchase-orders
 	url = git@github.com:xmarts/cancel-purchase-orders.git
 	branch = main
+
+[submodule "xmarts/declaraciones_dgii"]
+	path = xmarts/declaraciones_dgii
+	url = git@github.com:xmarts/declaraciones_dgii.git
+	branch = v15-jun
