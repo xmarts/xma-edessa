@@ -17,3 +17,8 @@
 	path = xmarts/purchase-discount
 	url = git@github.com:xmarts/purchase-discount.git
 	branch = 15.0
+
+[submodule "xmarts/xma-connection-edessa"]
+	path = xmarts/xma-connection-edessa
+	url = git@github.com:xmarts/xma-connection-edessa.git
+	branch = main
